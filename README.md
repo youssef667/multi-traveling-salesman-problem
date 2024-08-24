@@ -1,3 +1,2 @@
 # multi-traveling-salesman-problem
-multi traveling salesman problem using genatic algorithm and simulated annealing
-![Alt text](images/ga_sa..jpeg)
+![Alt text](images/ga_sa.jpeg)
